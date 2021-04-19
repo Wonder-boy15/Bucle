@@ -1,0 +1,26 @@
+main()
+{
+    CONSTANTES son aquellas que guardan algo y nunca cambia.
+
+        Mi_FECHA_DE_NACIMIENTO = "11/07/2004";               TIPO CADENA
+        
+        
+        
+        cuantos mm tiene 1 cm = 10;                          TIPO NÚMERICO
+        GRAVEDAD = 9.81;                                     TIPO NÚMERICO
+        VELOCIDAD_DE_LA_LUZ = 300000000;                     TIPO NÚMERICO
+        MAYORIA_DE_EDAD = 18;                                TIPO NÚMERICO
+    VARIABLES. Son espacios en memoria que guardan un valor pero este puede cambiar durante la ejecución del programa
+        
+        EDAD = 17;                                           TIPO NÚMERICO
+        NOMBRE = "MARAVILLA MÉNDEZ OSCAR";                    TIPO CADENA
+        TELÉFONO = "5532154135";                              TIPO CADENA
+        TELÉFONO_MENSAJE= 5557105865;                         TIPO NÚMERICO
+
+
+        printf(GRAVEDAD);    // este mensaje hace que aparezca en pantalla el palor 9.81 //
+        prinft("GRAVEDAD");  // Este caso hace que aparesca en pantalla la palabra gravedad//
+
+        printf (GRAVEDAD+1);    //Este comando hace que aparezca en pantalla en valor 10.81 //
+        printf ("GRAVEDAD+1")   //Este comando marca error //
+}
